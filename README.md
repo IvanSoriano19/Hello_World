@@ -1,2 +1,3 @@
 # Hello_World
-My first repository
+
+Hola soy Ivan Soriano, alumno de DAW Semipresencial
